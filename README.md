@@ -1,2 +1,2 @@
 No README.md yet.<br>
-![200w](https://github.com/enzo-quirici/enzo-quirici/assets/169756160/a8c45061-55b9-4c4d-8562-682f06588920)
+![rickroll-bailu](https://github.com/enzo-quirici/enzo-quirici/assets/169756160/e27d8d87-2472-4577-95f5-e848f8b3c373)
