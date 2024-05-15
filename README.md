@@ -1,2 +1,2 @@
 No README.md yet.
-https://media3.giphy.com/media/g7GKcSzwQfugw/giphy.gif?cid=6c09b9523kehpl5r53fgvm8w0y4ootiaft9pds2132k18odp&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![giphy](https://github.com/enzo-quirici/enzo-quirici/assets/169756160/c9495f25-1fcc-481e-b289-860836725cbe)
