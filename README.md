@@ -7,12 +7,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Enzo-Quirici/count.svg?"  />
-</div>
-
-###
-
 <div align="left">
 </div>
 
