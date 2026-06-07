@@ -3,3 +3,12 @@
   <br>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Enzo-Quirici&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
+
+Mysterious individual. Rarely sleeps. Pings the servers at 3 AM. Probably powered by some misterious power.
+Also known as Qualcomm Toolbox.
+
+🧠 IQ : As low as my balls when I open my electricity bill
+☕ Fuel : Liquid Hydrogen
+💻 OS Preference : Gentuwu, Winduwus, Mac UWUs X
+🌙 Sleep : As long as possible
+🔥 Bug count : 0 (because no one uses my code)
