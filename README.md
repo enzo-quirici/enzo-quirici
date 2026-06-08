@@ -15,7 +15,9 @@ Pings the servers at 3 AM.
 Probably powered by some misterious power.
 <br>
 Also known as Qualcomm Toolbox.
+
 <br>
+
 🧠 IQ : Unknown
 <br>
 ☕ Fuel : Gasoline
