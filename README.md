@@ -5,12 +5,19 @@
 </div>
 
 Mysterious individual.
+<br>
 Rarely sleeps.
+<br>
 Pings the servers at 3 AM.
+<br>
 Probably powered by some misterious power.
+<br>
 Also known as Qualcomm Toolbox.
 
 ☕ Fuel : Gasoline
+<br>
 💻 OS Preference : Gentuwu, Winduwus, Mac UWUs X
+<br>
 🌙 Sleep : As long as possible
+<br>
 🔥 Bug count : 0 (because no one uses my code)
