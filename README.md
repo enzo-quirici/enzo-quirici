@@ -16,7 +16,7 @@ Also known as Qualcomm Toolbox.
 
 ☕ Fuel : Gasoline
 <br>
-💻 OS Preference : Gentuwu, Winduwus, Mac UWUs X
+💻 OS Preference : Ubuntu,  Mac OS Lion
 <br>
 🌙 Sleep : As long as possible
 <br>
