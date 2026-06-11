@@ -27,6 +27,3 @@ Also known as Qualcomm Toolbox.
 🌙 Sleep : As long as possible
 <br>
 🔥 Bug count : 0 (because no one uses my code)
-
-
-OOOOAAAAA
