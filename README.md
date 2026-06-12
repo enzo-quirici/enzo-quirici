@@ -22,7 +22,7 @@ Also known as Qualcomm Toolbox.
 <br>
 ☕ Fuel : Gasoline
 <br>
-💻 OS Preference : Ubuntu Linux, Gentoo Linux,  Mac OS X Lion, Mac OS X High Sierra, Windows XP, Windows 7
+💻 OS Preference : Gentoo Linux, Mac OS X (Yes X not the new version) Windows 7 Or Below
 <br>
 🌙 Sleep : As long as possible
 <br>
